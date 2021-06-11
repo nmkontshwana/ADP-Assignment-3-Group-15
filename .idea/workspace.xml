@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed3ef5cc-d96b-4fd5-ba53-c448756a9c6a" name="Default Changelist" comment="commit Assignment3">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/src/main/java/za/ac/cput/ADP3LabBookingSystem/Entity/ComputerLab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/src/main/java/za/ac/cput/ADP3LabBookingSystem/Entity/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/src/main/java/za/ac/cput/ADP3LabBookingSystem/Factory/ComputerLabFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/src/main/java/za/ac/cput/ADP3LabBookingSystem/Factory/SeatFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/src/main/java/za/ac/cput/ADP3LabBookingSystem/Repository/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/src/main/java/za/ac/cput/ADP3LabBookingSystem/Service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/src/main/java/za/ac/cput/ADP3LabBookingSystem/Util/GenericHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/src/test/java/za/ac/cput/ADP3LabBookingSystem/Factory/ComputerLabFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/src/test/java/za/ac/cput/ADP3LabBookingSystem/Factory/SeatFactoryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tnYTxlKSEVQgQMtBxm0Mv7J7Ak" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="za.ac.cput.ADP3LabBookingSystem.Factory" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SeatFactoryTest.createSeat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ADP3LabBookingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.ADP3LabBookingSystem.Factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.ADP3LabBookingSystem.Factory" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.ADP3LabBookingSystem.Factory.SeatFactoryTest" />
+      <option name="METHOD_NAME" value="createSeat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeatFactoryTest.createSeat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed3ef5cc-d96b-4fd5-ba53-c448756a9c6a" name="Default Changelist" comment="" />
+      <created>1623406354669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623406354669</updated>
+      <workItem from="1623406362675" duration="21934000" />
+      <workItem from="1623435618810" duration="5185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit Assignment3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Assignment3" />
+  </component>
+</project>

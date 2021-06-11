@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ADP-Assignment-3-Group-15-main.iml" filepath="$PROJECT_DIR$/.idea/ADP-Assignment-3-Group-15-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/ADP3LabBookingSystem.iml" filepath="$PROJECT_DIR$/ADP-Assignment-3-Group-15-main/ADP3LabBookingSystem.iml" />
+    </modules>
+  </component>
+</project>
