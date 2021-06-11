@@ -11,14 +11,14 @@ public class Building {
         this.buildingId = builder.buildingId;
 
     }
-
+    //To string
     @Override
     public String toString() {
         return "Building{" +
                 "bulidingId='" + buildingId + '\'' +
                 '}';
     }
-
+    //Builder
     public static class Builder{
         private String buildingId;
 
