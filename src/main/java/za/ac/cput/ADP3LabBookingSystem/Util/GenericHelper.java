@@ -12,6 +12,7 @@ public class GenericHelper {
 
     //buildingId
     public static String generateBuildingId() {
+
         return UUID.randomUUID().toString();
     }
 
