@@ -1,8 +1,8 @@
 /*
  * Seat.java
  * Entity for the Seat.
- * Author: Nikiwe Mkontshwana (2142367141)
- * Due Date: 11 June 2021
+ * Author: Nikiwe Mkontshwana. (2142367141)
+ * Due Date: 11 June 2021.
  * */
 
 package za.ac.cput.ADP3LabBookingSystem.Entity;
