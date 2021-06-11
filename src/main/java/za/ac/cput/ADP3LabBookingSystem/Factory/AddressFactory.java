@@ -12,11 +12,7 @@ import za.ac.cput.ADP3LabBookingSystem.Util.GenericHelper;
 
 public class AddressFactory {
 
-    public static Address createAddress(String street){
-
-        String suburb = GenericHelper.generateSuburb() ;
-        String city = GenericHelper.AddressCity() ;
-        int zipCode = GenericHelper.addressZipCode();
+    public static Address createAddress(String street, String city, String suburb,int zipCode){
 
         Address address = new Address.Builder()
                 .setStreet(street)

@@ -27,7 +27,7 @@ public class AddressFactoryTest {
 
     @Test
     public void createAddress(){
-        Address address = AddressFactory.createAddress("Bassi Road");
+        Address address = AddressFactory.createAddress("Bassi Road", "Cape Town", "Zonnebloem", 7234);
         System.out.println(address);
     }
 
