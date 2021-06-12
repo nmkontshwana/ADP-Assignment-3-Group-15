@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class SeatFactoryTest {
     @Test
     public void createSeat(){
-        Seat seat = SeatFactory.createSeat("4","yes");
+        Seat seat = SeatFactory.createSeat("4","yes",true);
         System.out.println(seat);
     }
 
